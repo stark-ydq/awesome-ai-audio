@@ -19,6 +19,7 @@ Inspired by [awesome-gpt3](https://github.com/mikhail-bot/awesome-gpt3).
 
 - [Synplant](https://soniccharge.com/synplant)
 - [VroomAI VST](https://github.com/vroomai/vst)
+- [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrumental tracks using AI
 
 ## Developer Tools
 
