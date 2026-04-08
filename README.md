@@ -13,6 +13,7 @@ Inspired by [awesome-gpt3](https://github.com/mikhail-bot/awesome-gpt3).
 
 - [AudioCraft](https://audiocraft.metademolab.com/) — includes MusicGen + SoundGen.
 - [AudioLDM](https://audioldm.github.io/)
+- [voicetoinstrument.com](https://voicetoinstrument.com) — Convert voice to instrumental tracks using AI.
 - [AudioLDM2](https://audioldm.github.io/audioldm2/)
 
 ## Plugins
